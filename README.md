@@ -8,6 +8,7 @@
 ## Speakers
 - Laura Schaposnik (University of Illinois)
 - Natsuo Miyatake (Mathematical Science Center for Co-creative Society, Tohoku University)
+
 To Be Announced.
 
 <!--
