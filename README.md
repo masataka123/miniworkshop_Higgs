@@ -70,6 +70,9 @@ In this map, "12E" denotes Faculty of Science, Bldg. E.
 There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can stay for around 3,000 yen.  
 However, it is not a  good hotel, so we do not recommend you book it. 
  -->
+
+## Other Information
+ - This workshop will be held as a pre-seminar for our conference [New developments in Kobayashi–Hitchin correspondence and Higgs bundles](https://masataka123.github.io/Kobayashi_Hitchin/) from 5th–9th August 2024 in Osaka Metropolitan University. 
  
 ## Organizers
 - [Yoshinori Hashimoto](https://sites.google.com/view/yhashimoto/home) (Osaka Metropolitan University)
