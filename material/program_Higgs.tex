@@ -1,0 +1,208 @@
+\documentclass[dvipdfmx,a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+%\usepackage[dvipdfmx]{hyperref} %リンクを有効にする
+\usepackage{url} %同上
+\usepackage{amsmath,amssymb} %もちろん
+\usepackage{amsfonts,amsthm,mathtools} %もちろん
+\usepackage{braket,physics} %あると便利なやつ
+\usepackage{bm} %ラプラシアンで使った
+\usepackage[top=30truemm,bottom=30truemm,left=25truemm,right=25truemm]{geometry} %余白設定
+\usepackage{latexsym} %ごくたまに必要になる
+\renewcommand{\kanjifamilydefault}{\gtdefault}
+\usepackage{otf} %宗教上の理由でmin10が嫌いなので
+
+
+\usepackage[all]{xy}
+\usepackage{amsthm,amsmath,amssymb,comment}
+\usepackage{amsmath}    % \UTF{00E6}\UTF{0095}°\UTF{00E5}\UTF{00AD}\UTF{00A6}\UTF{00E7}\UTF{0094}¨
+\usepackage{amssymb}  
+\usepackage{color}
+\usepackage{amscd}
+\usepackage{amsthm}  
+\usepackage{wrapfig}
+\usepackage{comment}	
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{pxrubrica}
+\usepackage{enumitem}
+\usepackage{mathrsfs} 
+\usepackage[dvipdfmx]{hyperref}
+\setstretch{1.2}
+
+\newcommand{\mathsym}[1]{{}}
+\newcommand{\unicode}[1]{{}}
+
+\newcounter{mathematicapage}
+
+
+%%%%%%%%% Theorem-like environment %%%%%%%%%%%
+%
+\theoremstyle{plain} %text of this environment is typesetted in italics
+\newtheorem{theorem}{\indent\sc Theorem}[section]
+\newtheorem{lemma}[theorem]{\indent\sc Lemma}
+\newtheorem{corollary}[theorem]{\indent\sc Corollary}
+\newtheorem{proposition}[theorem]{\indent\sc Proposition}
+\newtheorem{claim}[theorem]{\indent\sc Claim}
+\newtheorem{conjecture}[theorem]{\indent\sc Conjecture}
+%
+\theoremstyle{definition} %text of this environment is typesetted in roman letters
+\newtheorem{definition}[theorem]{\indent\sc Definition}
+\newtheorem{remark}[theorem]{\indent\sc Remark}
+\newtheorem{example}[theorem]{\indent\sc Example}
+\newtheorem{notation}[theorem]{\indent\sc Notation}
+\newtheorem{assertion}[theorem]{\indent\sc Assertion}
+\newtheorem{observation}[theorem]{\indent\sc Observation}
+\newtheorem{problem}[theorem]{\indent\sc Problem}
+\newtheorem{question}[theorem]{\indent\sc Question}
+%
+%If a theorem-like environment should not be numbered,
+%add * after \newtheorem, and delete the counter option such as [theorem].
+\newtheorem*{remark0}{\indent\sc Remark}
+%
+%%%%% Proof %%%%%
+\renewcommand{\proofname}{\indent\sc Proof.}
+%The following commands are available in the proof environment:
+%\begin{proof}
+%\end{proof}
+%The end of a proof is marked with a square.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{center}
+  {\Huge Mini-workshop on Higgs bundles}
+ 
+  %{\Large -Hodge theory and vanishing theorem-}
+
+  \end{center}
+  
+\vskip5mm
+\begin{flushleft}
+{ Date: 27th-28th May 2024. (2024年5月27--28日)}
+
+
+{Place: Lecture Room E404 in Graduate School of Science Building E in Osaka University (Toyonaka Campus).}
+{(大阪大学理学部E404講義室(豊中キャンパス))}
+
+\end{flushleft}
+
+
+%\footnote{ホームページ: \texttt{https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry-in-osaka-2023?authuser=0}}
+%\footnote{This conference is supported by Osaka City University Advanced Mathematical Institute: MEXT Joint Usage/Research Center on Mathematics and Theoretical Physics.}
+
+
+\vskip8mm
+\noindent{\Large \bf Program}
+
+\vskip3mm
+\noindent{\bf 27th May (Monday)}
+\vskip1mm
+\noindent {\bf 10:00--11:00  }
+TBA
+%{\bf Shouhei Ma (Tokyo Institute of Technology)}\\
+%Mixed Hodge structures of locally symmetric varieties
+\vskip3mm
+
+\noindent {\bf 11:30--12:30} 
+TBA
+\vskip3mm
+
+\noindent {\bf14:30--15:30 } 
+TBA
+\vskip3mm
+
+\noindent {\bf 16:00--17:00 } 
+TBA
+
+\vskip6mm
+\noindent{\bf 28th May (Tuesday)}
+\vskip1mm
+\noindent {\bf 10:00--11:00 } 
+TBA
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{comment}
+
+\begin{table}[htb]
+\centering
+ % \caption{スペック比較:罫線あり}
+  \begin{tabular}{| c | | c | c | c |}  \hline
+  Time  & 3/22(水) & 3/23(木)& 3/23(金)  \\ \hline 
+     \begin{tabular}{c} GMT 6:00-7:00 \\ (JST 15:00-16:00)\end{tabular}
+&Shin-ichi Matsumura & Jihun Yum&Seungjae Lee \\ \hline
+      \begin{tabular}{c}   GMT 7:10-8:10 \\ (JST 16:10-17:10)  \end{tabular}
+& Junchao Shentu & Hoseob Seo&\sout{ Juanyong Wang}\\ \hline
+ \begin{tabular}{c}   GMT 8:40-9:40\\ (JST 17:40-18:40) \end{tabular}
+&  Feng Hao& F\'elix Lequen& Lukas Braun \\ \hline
+ \begin{tabular}{c}   GMT 11:30-12:30\\ (JST 20:30-21:30) \end{tabular}
+&  Xiaojun Wu &  Olivier Thom &    \\ \hline
+  \end{tabular}
+\end{table}
+\end{comment}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newpage 
+
+\noindent{\large \bf Organizers}
+\begin{itemize}
+  \setlength{\parskip}{0cm} 
+  \setlength{\itemsep}{0cm}
+\item Yoshinori Hashimoto (Osaka Metropolitan University)
+\item Masataka Iwai (Osaka University)
+\item Hisashi Kasuya (Osaka University)
+\item Natsuo Miyatake (Mathematical Science Center for Co-creative Society, Tohoku University,)
+  \end{itemize}
+
+\noindent{\large \bf Supports 1}
+
+This conference is supported by “Osaka Central Advanced Mathematical Institute (MEXT Promotion of Distinctive Joint Research Center Program JPMXP0723833165), Osaka Metropolitan University”.
+
+\vskip3mm
+\noindent{\large \bf Supports 2}
+\begin{itemize}
+  \setlength{\parskip}{0cm} 
+  \setlength{\itemsep}{0cm}
+\item JSPS KAKENHI 19H01787 Grant-in-Aid for Scientific Research (B)
+\item JSPS KAKENHI 20K03592 Grant-in-Aid for Scientific Research (C)
+\item JSPS KAKENHI 22K13907 Grant-in-Aid for Early Career Scientists.
+\item JSPS KAKENHI 23K03120 Grant-in-Aid for Scientific Research (C)
+\item JSPS KAKENHI 24K16912 Grant-in-Aid for Early Career Scientists.  
+\end{itemize}
+
+\noindent{\large \bf Homepage}
+
+We have posted various information on our website, including how to access to the conference room "Lecture Room E404".
+
+\vskip3mm
+Homepage Link: \url{https://masataka123.github.io/miniworkshop_Higgs/}
+
+You can also read the QR code below:
+
+\begin{figure}[htbp]
+\begin{center}
+ \includegraphics[height=50mm, width=50mm]{Higgs.png}
+\end{center}
+\end{figure}
+
+
+
+\newpage
+
+\noindent{\Large \bf Abstract}
+\vskip5mm
+
+\noindent{\bf 27th May (Monday)}
+\vskip3mm
+
+%\noindent {\bf Shouhei Ma (Tokyo Institute of Technology)}\\
+%Mixed Hodge structures of locally symmetric varieties
+
+%\vskip3mm
+%I will talk about the mixed Hodge structures on the cohomology of locally symmetric varieties. In the middle degree, I relate the weight filtration to the Siegel operators for certain modular forms. This has an application to a classical problem on the Siegel operators. In the general degrees, I construct a spectral sequence which converges to the edge Hodge components in the Hodge triangle, and whose E1 page is expressed by some simple geometric invariants associated to the cusps. This already degenerates at E1 in a certain range. Applications contain a new proof of a classical result of Harder on the Eisenstein cohomology of Hilbert modular varieties. 
+%\vskip6mm
+
+
+
+\end{document}

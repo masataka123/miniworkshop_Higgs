@@ -6,12 +6,12 @@
 
 
 ## Speakers
-- Laura Schaposnik (University of Illinois)
 - Natsuo Miyatake (Mathematical Science Center for Co-creative Society, Tohoku University)
-
-To Be Announced.
+- Laura Schaposnik (University of Illinois)
+- Mengxue Yang (Kavli IPMU, The University of Tokyo)
 
 <!--
+- Mengxue Yang (Kavli IPMU, The University of Tokyo)
 - Philip Boalch (Institut de Mathématiques de Jussieu - Paris Rive Gauche)
 -  Xuemiao Chen (University of Waterloo)
 - Wu Di (Nanjing University of Science and Technology)
