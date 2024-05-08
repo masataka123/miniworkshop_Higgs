@@ -31,13 +31,13 @@
 ## Schedule
 
 ### 27th May (Monday)
-1. 10:00--11:00 TBA
-2. 11:30--12:30 TBA
-3. 14:30--15:30 TBA
-4. 16:00--17:00 TBA
+1. 10:00--11:00 Laura Schaposnik
+2. 11:30--12:30 Laura Schaposnik
+3. 14:30--15:30 Natsuo Miyatake 
+4. 16:00--17:00 Mengxue Yang
 
 ### 28th May (Tuesday)
-1. 10:00--11:00 TBA
+1. 10:00--11:00 Laura Schaposnik
 
 ##  Program
 
