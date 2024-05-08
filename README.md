@@ -62,15 +62,7 @@ Lecture Room E404 is located near the elevator on the 4th floor of Graduate Scho
 
  If you need further assistance (for example, how to get to "Shibahara-handai-mae" Station), please refer to [this link](http://www.math.sci.osaka-u.ac.jp/eng/access.html).
 
-<!--
-It takes 5 minites on foot from Sugimoto-cho Station to the conference room.
-The map of Faculty of Science is [here](https://masataka123.github.io/Kobayashi_Hitchin/material/sugimoto.png)
-In this map, "12E" denotes Faculty of Science, Bldg. E. 
 
-## Other informations
-There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can stay for around 3,000 yen.  
-However, it is not a  good hotel, so we do not recommend you book it. 
- -->
 
 ## Other Information
  - This workshop will be held as a pre-seminar for our conference [New developments in Kobayashi–Hitchin correspondence and Higgs bundles](https://masataka123.github.io/Kobayashi_Hitchin/) from 5th–9th August 2024 in Osaka Metropolitan University. 
@@ -83,6 +75,11 @@ However, it is not a  good hotel, so we do not recommend you book it.
 
 If you have any questions concerning this conference, please contact Yoshinori Hashimoto (yhashimoto[at]omu.ac.jp) and Masataka Iwai (masataka[at]math.sci.osaka-u.ac.jp).
 
+## Supports (KAKENHI)
+- JSPS KAKENHI 19H01787 Grant-in-Aid for Scientific Research (B) 
+- JSPS KAKENHI 24K16912 Grant-in-Aid for Early Career Scientists. 
+
+<!--
 ## Supports 1 (OCAMI)
 This conference is supported by "Osaka Central Advanced Mathematical Institute (MEXT Promotion of Distinctive Joint Research Center Program JPMXP0723833165), Osaka Metropolitan University".
 
@@ -93,3 +90,11 @@ This conference is supported by "Osaka Central Advanced Mathematical Institute (
 - JSPS KAKENHI 23K03120 Grant-in-Aid for Scientific Research (C) 
 - JSPS KAKENHI 24K16912 Grant-in-Aid for Early Career Scientists. 
 
+It takes 5 minites on foot from Sugimoto-cho Station to the conference room.
+The map of Faculty of Science is [here](https://masataka123.github.io/Kobayashi_Hitchin/material/sugimoto.png)
+In this map, "12E" denotes Faculty of Science, Bldg. E. 
+
+## Other informations
+There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can stay for around 3,000 yen.  
+However, it is not a  good hotel, so we do not recommend you book it. 
+ -->
