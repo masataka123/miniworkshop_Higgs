@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.uptex) (TeX Live 2024) (preloaded format=uplatex 2024.3.27)  25 APR 2024 12:18
+This is e-upTeX, Version 3.141592653-p4.1.1-u1.30-230214-2.6 (utf8.uptex) (TeX Live 2024) (preloaded format=uplatex 2024.3.27)  10 MAY 2024 14:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -596,11 +596,11 @@ LaTeX Font Info:    ... okay on input line 70.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
-* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* v-part:(T,H,B)=(85.35826pt, 688.5567pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=455.24411pt
-* \textheight=674.33032pt
+* \textheight=688.5567pt
 * \oddsidemargin=-1.1381pt
 * \evensidemargin=-1.1381pt
 * \topmargin=-23.91173pt
@@ -676,24 +676,22 @@ LaTeX Font Info:    Font shape `JY2/hgt/bx/n' in size <12> not available
 LaTeX Font Info:    Font shape `JY2/hgt/m/n' will be
 (Font)              scaled to size 11.54663pt on input line 98.
  Excluding 'comment' comment.
+LaTeX Font Info:    Font shape `JT2/hgt/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 150.
+LaTeX Font Info:    Font shape `JY2/hgt/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 150.
+LaTeX Font Info:    Font shape `JT2/hgt/bx/n' in size <14.4> not available
+(Font)              Font shape `JT2/hgt/m/n' tried instead on input line 150.
+LaTeX Font Info:    Font shape `JT2/hgt/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 150.
+LaTeX Font Info:    Font shape `JY2/hgt/bx/n' in size <14.4> not available
+(Font)              Font shape `JY2/hgt/m/n' tried instead on input line 150.
+LaTeX Font Info:    Font shape `JY2/hgt/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 150.
+
 [1
 
-]
-LaTeX Font Info:    Font shape `JT2/hgt/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 148.
-LaTeX Font Info:    Font shape `JY2/hgt/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 148.
-LaTeX Font Info:    Font shape `JT2/hgt/bx/n' in size <14.4> not available
-(Font)              Font shape `JT2/hgt/m/n' tried instead on input line 148.
-LaTeX Font Info:    Font shape `JT2/hgt/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 148.
-LaTeX Font Info:    Font shape `JY2/hgt/bx/n' in size <14.4> not available
-(Font)              Font shape `JY2/hgt/m/n' tried instead on input line 148.
-LaTeX Font Info:    Font shape `JY2/hgt/m/n' will be
-(Font)              scaled to size 13.85594pt on input line 148.
-File: Higgs.png Graphic file (type bmp)
-<Higgs.png>
- [2] [3] (./program_Higgs.aux)
+] [2] (./program_Higgs.aux)
  ***********
 pLaTeX2e <2023-02-14u04>+1, based on
 LaTeX2e <2023-11-01> patch level 1
@@ -703,12 +701,12 @@ Package rerunfilecheck Info: File `program_Higgs.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 17148 strings out of 474762
- 251957 string characters out of 5758587
- 1924338 words of memory out of 5000000
- 39251 multiletter control sequences out of 15000+600000
- 573657 words of font info for 111 fonts, out of 8000000 for 9000
+ 17134 strings out of 474762
+ 251739 string characters out of 5758587
+ 1929338 words of memory out of 5000000
+ 39242 multiletter control sequences out of 15000+600000
+ 573488 words of font info for 110 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  79i,5n,93p,3265b,1025s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on program_Higgs.dvi (3 pages, 4388 bytes).
+Output written on program_Higgs.dvi (2 pages, 4788 bytes).
