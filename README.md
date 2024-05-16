@@ -38,7 +38,7 @@ An introduction to Higgs bundles and their integrable system II
 3. 14:30--15:30 **Natsuo Miyatake (Mathematical Science Center for Co-creative Society, Tohoku University)** <br>
 Harmonic metrics on cyclic Higgs bundles, subharmonic functions, and entropy
 4. 16:00--17:00 **Mengxue Yang Kavli IPMU, The University of Tokyo)** <br>
-T.B.A.
+Conformal limit on Cayley components
 
 ### 28th May (Tuesday)
 1. 10:00--11:00 **Laura Schaposnik (University of Illinois)** <br>
@@ -46,10 +46,9 @@ An introduction to Higgs bundles and their integrable system III
 
 ##  Program
 
-We will inform around  May on 2024.
-<!--
-Here is the PDF file of program and abstracts. [Program](https://masataka123.github.io/complexgeometry_osaka_2024/material/program.pdf)
--->
+
+Here is the PDF file of program and abstracts. [Program](https://masataka123.github.io/miniworkshop_Higgs/material/program.pdf)
+
 
 
 ## Access
