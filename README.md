@@ -31,17 +31,17 @@
 ## Schedule
 
 ### 27th May (Monday)
-1. 10:00--11:00 **Laura Schaposnik** <br>
+1. 10:00--11:00 **Laura Schaposnik (University of Illinois)** <br>
 An introduction to Higgs bundles and their integrable system I
-2. 11:30--12:30 **Laura Schaposnik** <br>
+2. 11:30--12:30 **Laura Schaposnik (University of Illinois)** <br>
 An introduction to Higgs bundles and their integrable system II
-3. 14:30--15:30 **Natsuo Miyatake** <br>
+3. 14:30--15:30 **Natsuo Miyatake (Mathematical Science Center for Co-creative Society, Tohoku University)** <br>
 Harmonic metrics on cyclic Higgs bundles, subharmonic functions, and entropy
-4. 16:00--17:00 **Mengxue Yang** <br>
+4. 16:00--17:00 **Mengxue Yang Kavli IPMU, The University of Tokyo)** <br>
 T.B.A.
 
 ### 28th May (Tuesday)
-1. 10:00--11:00 **Laura Schaposnik** <br>
+1. 10:00--11:00 **Laura Schaposnik (University of Illinois)** <br>
 An introduction to Higgs bundles and their integrable system III
 
 ##  Program
