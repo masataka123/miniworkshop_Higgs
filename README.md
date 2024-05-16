@@ -47,7 +47,7 @@ An introduction to Higgs bundles and their integrable system III
 ##  Program
 
 
-Here is the PDF file of program and abstracts. [Program](https://masataka123.github.io/miniworkshop_Higgs/material/program.pdf)
+Here is a PDF file of program and abstracts. [Program](https://masataka123.github.io/miniworkshop_Higgs/material/program.pdf)
 
 
 
