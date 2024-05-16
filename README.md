@@ -37,7 +37,7 @@ An introduction to Higgs bundles and their integrable system I
 An introduction to Higgs bundles and their integrable system II
 3. 14:30--15:30 **Natsuo Miyatake (Mathematical Science Center for Co-creative Society, Tohoku University)** <br>
 Harmonic metrics on cyclic Higgs bundles, subharmonic functions, and entropy
-4. 16:00--17:00 **Mengxue Yang Kavli IPMU, The University of Tokyo)** <br>
+4. 16:00--17:00 **Mengxue Yang (Kavli IPMU, The University of Tokyo)** <br>
 Conformal limit on Cayley components
 
 ### 28th May (Tuesday)
